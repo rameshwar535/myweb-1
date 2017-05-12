@@ -16,7 +16,7 @@
 			<version>3.0.1</version>
 			<scope>provided</scope>
 		</dependency>
-
+		<!-- Demo-->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -31,7 +31,7 @@
 		  <scope>test</scope>
 		</dependency> -->
 	</dependencies>
-	
+	<!-- Demo-->
 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
